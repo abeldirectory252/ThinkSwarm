@@ -1,0 +1,18 @@
+### Digital Payment Debate Summary
+
+* **Telebirr:** Opposes forced interoperability; wants to protect its advantage.
+* **M-Pesa:** Supports interoperability to compete fairly.
+* **NBE:** Approves phased interoperability with controls.
+* **Banks:** Demand stronger oversight.
+* **Rural users:** Want affordable and easy payments.
+
+### 12-Month Impact
+
+| Stakeholder | Outcome                           |
+| ----------- | --------------------------------- |
+| Telebirr    | Remains leader but faces pressure |
+| M-Pesa      | Gains market share                |
+| Banks       | Expand digital services           |
+| Users       | Benefit from easier transfers     |
+
+**Result:** More competition, better access, and faster digital payment growth.

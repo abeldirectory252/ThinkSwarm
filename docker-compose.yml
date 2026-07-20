@@ -1,0 +1,14 @@
+services:
+  ThinkSwarm:
+    image: ghcr.io/abeldirectory252/ThinkSwarm:latest
+    # Mirror image for faster pulls (replace if pulling is slow)
+    # image: ghcr.nju.edu.cn/abeldirectory252/ThinkSwarm:latest
+    container_name: ThinkSwarm
+    env_file:
+      - .env
+    ports:
+      - "3000:3000"
+      - "5001:5001"
+    restart: unless-stopped
+    volumes:
+      - ./backend/uploads:/app/backend/uploads

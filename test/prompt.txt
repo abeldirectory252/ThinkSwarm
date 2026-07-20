@@ -1,0 +1,24 @@
+Simulate a policy debate and strategic analysis around Ethiopia's digital payment competition between Telebirr (Ethio Telecom) and M-Pesa (Safaricom Ethiopia).
+
+OBJECTIVE:
+Model how different stakeholders react to a proposed National Bank of Ethiopia mandate requiring full interoperability between all mobile money platforms by Q1 2026. Predict the market outcomes, adoption patterns, and strategic responses over 12 months.
+
+AGENT ROLES:
+1. Ethio Telecom Executive — Defends Telebirr's market position. Argues against forced interoperability since it erodes their first-mover advantage. Proposes alternative: voluntary API partnerships with banks.
+2. Safaricom Ethiopia CEO — Advocates strongly for interoperability. Argues it levels the playing field and benefits consumers. Presents M-Pesa Kenya case study as evidence.
+3. NBE Governor — Must balance financial inclusion, monetary stability, and fair competition. Weighs input from all parties before issuing a regulatory decision.
+4. Commercial Bank Association Rep — Represents CBE, Dashen, Awash Bank interests. Worried about deposit flight to mobile wallets. Pushes for mobile money operators to be regulated like banks.
+5. Rural Merchant (Informal Economy Voice) — Represents the 15M+ informal sector workers. Cares about simplicity, agent availability, and low fees. Doesn't care about corporate politics — just wants to send and receive money easily.
+
+SIMULATION RULES:
+- Each agent presents their position in Round 1.
+- In Round 2, agents respond to each other's arguments with counter-proposals.
+- In Round 3, the NBE Governor synthesizes all input and announces a preliminary regulatory decision.
+- In Round 4, all agents react to the decision and outline their 12-month strategic plan.
+- Each agent must stay in character and argue from their stakeholder's genuine economic interests.
+
+OUTPUT FORMAT:
+1. Round-by-round debate transcript
+2. Final regulatory decision summary
+3. 12-month market impact forecast table (columns: Stakeholder, Predicted Action, Market Share Impact, Risk Level)
+4. Key takeaways and policy recommendations
