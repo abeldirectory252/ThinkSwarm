@@ -11,7 +11,6 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything
 </br>
 <em>Transforming Data into Actionable Insights for Enterprise Analysis & ERPNext Management</em>
 
-<a href="https://www.shanda.com/" target="_blank"><img src="./static/image/shanda_logo.png" alt="666ghj%2FThinkSwarm | Shanda" height="40"/></a>
 
 [![GitHub Stars](https://img.shields.io/github/stars/abeldirectory252/ThinkSwarm?style=flat-square&color=DAA520)](https://github.com/abeldirectory252/ThinkSwarm/stargazers)
 [![GitHub Watchers](https://img.shields.io/github/watchers/abeldirectory252/ThinkSwarm?style=flat-square)](https://github.com/abeldirectory252/ThinkSwarm/watchers)
@@ -47,19 +46,19 @@ From serious financial forecasting to complex ERP implementation management, we 
 
 ## 🌐 Live Demo
 
-Welcome to visit our online demo environment and experience a prediction simulation on corporate financial forecasting and ERPNext project tracking: [ThinkSwarm-live-demo](https://666ghj.github.io/ThinkSwarm-demo/)
+Welcome to visit our online demo environment and experience a prediction simulation on corporate financial forecasting and ERPNext project tracking: [ThinkSwarm-live-demo](https://abeldirectory252.github.io/ThinkSwarm/)
 
 ## 📸 Screenshots
 
 <div align="center">
 <table>
 <tr>
-<td><img src="./static/image/Screenshot/run_screenshot1.png" alt="Screenshot 1" width="100%"/></td>
-<td><img src="./static/image/Screenshot/run_screenshot2.png" alt="Screenshot 2" width="100%"/></td>
+<td><img src="https://github.com/abeldirectory252/ThinkSwarm/blob/main/static/image/Screenshot/run_screenshot1.png" alt="Screenshot 1" width="100%"/></td>
+<td><img src="https://github.com/abeldirectory252/ThinkSwarm/blob/main/static/image/Screenshot/run_screenshot2.png" alt="Screenshot 2" width="100%"/></td>
 </tr>
 <tr>
-<td><img src="./static/image/Screenshot/run_screenshot3.png" alt="Screenshot 3" width="100%"/></td>
-<td><img src="./static/image/Screenshot/run_screenshot4.png" alt="Screenshot 4" width="100%"/></td>
+<td><img src="https://github.com/abeldirectory252/ThinkSwarm/blob/main/static/image/Screenshot/run_screenshot3.png" alt="Screenshot 3" width="100%"/></td>
+<td><img src="https://github.com/abeldirectory252/ThinkSwarm/blob/main/static/image/Screenshot/run_screenshot4.png" alt="Screenshot 4" width="100%"/></td>
 </tr>
 <tr>
 <td><img src="./static/image/Screenshot/run_screenshot5.png" alt="Screenshot 5" width="100%"/></td>
