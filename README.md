@@ -175,29 +175,3 @@ docker compose up -d
 Reads `.env` from root directory by default, maps ports `3000 (frontend) / 5001 (backend)`
 
 > Mirror address for faster pulling is provided as comments in `docker-compose.yml`, replace if needed.
-
-## 📬 Join the Conversation
-
-<div align="center">
-<img src="./static/image/QQ_Group.png" alt="QQ Group" width="60%"/>
-</div>
-
-&nbsp;
-
-The ThinkSwarm team is recruiting full-time/internship positions. If you're interested in multi-agent simulation, financial modeling, and ERPNext integrations, feel free to send your resume to: **ThinkSwarm@shanda.com**
-
-## 📄 Acknowledgments
-
-**ThinkSwarm has received strategic support and incubation from Shanda Group!**
-
-ThinkSwarm's core simulation engine is powered by **[OASIS (Open Agent Social Interaction Simulations)](https://github.com/camel-ai/oasis)**. We sincerely thank the CAMEL-AI team for their outstanding open-source contributions!
-
-## 📈 Project Statistics
-
-<a href="https://www.star-history.com/#abeldirectory252/ThinkSwarm&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=abeldirectory252/ThinkSwarm&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=abeldirectory252/ThinkSwarm&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=abeldirectory252/ThinkSwarm&type=date&legend=top-left" />
- </picture>
-</a>
