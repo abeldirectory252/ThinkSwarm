@@ -1,5 +1,4 @@
 
-**ThinkSwarm** is an intelligent, open-source Management Information System (MIS) powered by multi-agent swarm intelligence, specifically engineered for deep company analysis, financial forecasting, and ERPNext project management. It transforms complex organizational data into actionable insights through predictive analytics, decision support, and process optimization. Designed to be simple, scalable, and adaptable, ThinkSwarm helps organizations analyze operations, accurately predict annual income, and ensure the success of ERPNext implementations.
 
 <div align="center">
 
@@ -25,6 +24,11 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything
 [English](./README.md)
 
 </div>
+
+
+**ThinkSwarm** is an intelligent, open-source Management Information System (MIS) powered by multi-agent swarm intelligence, specifically engineered for deep company analysis, financial forecasting, and ERPNext project management. It transforms complex organizational data into actionable insights through predictive analytics, decision support, and process optimization. Designed to be simple, scalable, and adaptable, ThinkSwarm helps organizations analyze operations, accurately predict annual income, and ensure the success of ERPNext implementations.
+
+
 
 ## ⚡ Overview
 
